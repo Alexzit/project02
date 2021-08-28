@@ -1,4 +1,4 @@
-package com.project02.bean;
+package com.alexzit.project02.bean;
 
 /**
  * @author Alex
