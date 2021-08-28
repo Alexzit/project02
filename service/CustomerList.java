@@ -1,4 +1,4 @@
-package com.project02.service;
+package com.alexzit.project02.service;
 
 import com.project02.bean.Customer;
 
