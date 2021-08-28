@@ -1,4 +1,4 @@
-package com.project02.util;
+package com.alexzit.project02.util;
 
 import java.util.*;
 /**
