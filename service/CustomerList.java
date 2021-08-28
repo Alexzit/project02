@@ -1,6 +1,6 @@
 package com.alexzit.project02.service;
 
-import com.project02.bean.Customer;
+import com.alexzit.project02.bean.Customer;
 
 /**
  * @author Alex
