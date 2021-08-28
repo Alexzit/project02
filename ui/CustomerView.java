@@ -1,8 +1,8 @@
-package com.project02.ui;
+package com.alexzit.project02.ui;
 
-import com.project02.bean.Customer;
-import com.project02.service.CustomerList;
-import com.project02.util.CMUtility;
+import com.alexzit.project02.bean.Customer;
+import com.alexzit.project02.service.CustomerList;
+import com.alexzit.project02.util.CMUtility;
 
 /**
  * 负责菜单的显示和处理用户操作
